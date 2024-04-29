@@ -1,9 +1,16 @@
 FROM python:3.9-slim
 
+
 WORKDIR /app
 
-COPY hilos.py ./
+
+COPY . /app
+
 
 RUN pip install pandas
+RUN pip install psutil
 
-CMD ["python", "hilos.py", "4"]  
+
+ENTRYPOINT ["python", "hilos.py"]
+CMD ["4"]  # Default parameter to be used if no other is provided at runtime
+
