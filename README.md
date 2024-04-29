@@ -1,8 +1,8 @@
 # Sistemas Operativos - UFM
 # Proyecto de Hilos en Python
 
-## Nickolas Nolte Carnet 20200561
-## Esteban Samayoa Carnet 20200188
+### Nickolas Nolte Carnet 20200561
+### Esteban Samayoa Carnet 20200188
 
 
 ## Descripción
