@@ -1,6 +1,10 @@
 # Sistemas Operativos - UFM
 # Proyecto de Hilos en Python
 
+## Nickolas Nolte Carnet 20200561
+## Esteban Samayoa Carnet 20200188
+
+
 ## Descripción
 
 Este proyecto implementa un programa en Python para calcular estadísticas como la media, la desviación estándar, el mínimo, el máximo y el conteo de series de datos. El programa procesa 1000 archivos CSV en paralelo, utilizando diferentes configuraciones de hilos y núcleos de CPU para comparar el rendimiento.
