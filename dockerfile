@@ -2,8 +2,8 @@ FROM python:3.9-slim
 
 WORKDIR /app
 
-COPY . /app
+COPY hilos.py ./
 
 RUN pip install pandas
 
-CMD ["python", "hilos.py"]
+CMD ["python", "hilos.py", "4"]  
