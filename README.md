@@ -34,7 +34,7 @@ Este proyecto implementa un programa en Python para calcular estadísticas como 
 Para construir la imagen de Docker, navega al directorio del proyecto y ejecuta:
 
 ```bash
-docker build -t nombre_de_tu_imagen .
+docker build -t nombre_de_la_imagen .
 ```
 
 ## Ejecutar el contenedor
